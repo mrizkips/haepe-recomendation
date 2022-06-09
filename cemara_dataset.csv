@@ -1,0 +1,288 @@
+Timestamp,Peran,Umur,Minat,Minat1,Minat2,Keahlian,Keahlian1,Aktivitas
+21/05/2022 12:39:46,Anak,21-55,Alam,Hiburan,Animasi,Masak,Manajemen,Membersihkan Rumah
+21/05/2022 12:44:19,Ayah,21-55,Makanan,Olahraga,Binatang,Swakarya/DIY,Berkebun,Membersihkan Rumah
+21/05/2022 12:46:16,Anak,15<,Makanan,Animasi,Binatang,Swakarya/DIY,Sosialisasi,Belanja Kebutuhan
+21/05/2022 12:49:24,Ibu,21-55,Makanan,Olahraga,Hiburan,Masak,Sosialisasi,Memasak
+21/05/2022 13:03:39,Anak,15-20,Makanan,Hiburan,Keuangan,Masak,,Membersihkan Rumah
+21/05/2022 13:05:13,Ibu,21-55,Makanan,Alam,Kesehatan,Masak,Berkebun,Mengasuh Anak
+21/05/2022 13:06:18,Ayah,21-55,Olahraga,Hiburan,Keuangan,Swakarya/DIY,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 13:06:59,Anak,15<,Alam,Hiburan,Animasi,Swakarya/DIY,Sosialisasi,Mencuci Piring
+21/05/2022 14:16:17,Ibu,21-55,Olahraga,Hiburan,Keuangan,Masak,Berkebun,Memasak
+21/05/2022 14:19:13,Ayah,21-55,Teknologi,Hiburan,Animasi,Sosialisasi,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 14:22:54,Anak,15<,Makanan,Hiburan,Animasi,Swakarya/DIY,Sosialisasi,Mencuci Piring
+21/05/2022 14:45:44,Anak,15-20,Makanan,Animasi,Keuangan,Masak,Sosialisasi,Mencuci Baju
+21/05/2022 14:45:59,Ayah,21-55,Hiburan,Literatur,Kesehatan,Swakarya/DIY,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 14:48:05,Anak,15-20,Hiburan,Edukasi,Animasi,Masak,Sosialisasi,Belanja Kebutuhan
+21/05/2022 14:48:44,Ibu,21-55,Makanan,Keuangan,Kesehatan,Masak,Manajemen,Membayar Tagihan
+21/05/2022 14:50:11,Anak,15-20,Makanan,Hiburan,Animasi,Swakarya/DIY,Sosialisasi,Mencuci Baju
+21/05/2022 15:40:28,Ibu,21-55,Makanan,Olahraga,Keuangan,Masak,Berkebun,Memasak
+21/05/2022 15:47:08,Ibu,21-55,Olahraga,Hiburan,Kesehatan,Masak,,Mengasuh Anak
+21/05/2022 15:48:12,Ibu,21-55,Olahraga,Hiburan,Kesehatan,Masak,,Mengasuh Anak
+21/05/2022 15:56:39,Ibu,21-55,Makanan,Olahraga,Hiburan,Masak,Sosialisasi,Mencuci Baju
+21/05/2022 15:58:45,Anak,15<,Makanan,Olahraga,Hiburan,Masak,Sosialisasi,Membersihkan Rumah
+21/05/2022 16:00:49,Ayah,21-55,Makanan,Olahraga,Alam,Sosialisasi,Manajemen,Membersihkan Rumah
+21/05/2022 16:13:57,Ayah,21-55,Olahraga,Teknologi,Keuangan,Otomotif,,Membayar Tagihan
+21/05/2022 16:14:46,Anak,15-20,Makanan,Hiburan,Edukasi,Sosialisasi,,Membersihkan Rumah
+21/05/2022 16:28:47,Ayah,21-55,Makanan,Olahraga,Kesehatan,Otomotif,,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 16:32:57,Ibu,21-55,Makanan,Hiburan,Kesehatan,Sosialisasi,,Mencuci Piring
+21/05/2022 16:47:09,Ayah,21-55,Olahraga,Hiburan,Kesehatan,Swakarya/DIY,Manajemen,Mengasuh Anak
+21/05/2022 16:47:48,Ibu,21-55,Olahraga,Hiburan,Kesehatan,Masak,Berkebun,Membersihkan Rumah
+21/05/2022 16:49:05,Ibu,21-55,Makanan,Hiburan,Kesehatan,Masak,Sosialisasi,Membersihkan Rumah
+21/05/2022 16:54:11,Anak,15<,Makanan,Hiburan,Animasi,Sosialisasi,,Membersihkan Rumah
+21/05/2022 17:00:51,Ayah,21-55,Makanan,Alam,Hiburan,Berkebun,,Memasak
+21/05/2022 17:32:51,Ibu,21-55,Olahraga,Alam,Edukasi,Masak,Manajemen,Memasak
+21/05/2022 17:34:21,Ayah,21-55,Makanan,Hiburan,Binatang,Otomotif,,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 17:34:34,Ibu,21-55,Makanan,Alam,Teknologi,Masak,Berkebun,Belanja Kebutuhan
+21/05/2022 17:35:59,Anak,15-20,Makanan,Hiburan,Binatang,Otomotif,,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 17:36:06,Ayah,21-55,Olahraga,Hiburan,Literatur,Sosialisasi,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 17:37:01,Anak,15-20,Teknologi,Hiburan,Animasi,Masak,Sosialisasi,Mencuci Piring
+21/05/2022 17:43:23,Anak,15<,Hiburan,Edukasi,Animasi,Sosialisasi,,Mencuci Piring
+21/05/2022 17:49:02,Ayah,21-55,Makanan,Teknologi,Hiburan,Kelistrikan,,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 17:50:52,Ibu,21-55,Makanan,Olahraga,Hiburan,Masak,Sosialisasi,Memasak
+21/05/2022 17:52:20,Anak,15<,Makanan,Teknologi,Hiburan,Swakarya/DIY,,Membersihkan Rumah
+21/05/2022 18:09:08,Ayah,21-55,Makanan,Teknologi,Hiburan,Otomotif,Kelistrikan,Membayar Tagihan
+21/05/2022 18:09:14,Ayah,21-55,Makanan,Teknologi,Hiburan,Otomotif,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 18:09:47,Ibu,21-55,Makanan,Hiburan,Animasi,Masak,,Mencuci Baju
+21/05/2022 18:09:51,Anak,15-20,Makanan,Olahraga,Kesehatan,Masak,Sosialisasi,Belanja Kebutuhan
+21/05/2022 18:10:14,Anak,15<,Hiburan,Animasi,Binatang,Swakarya/DIY,Sosialisasi,Membersihkan Rumah
+21/05/2022 18:10:21,Anak,15-20,Makanan,Edukasi,Kesehatan,Masak,Swakarya/DIY,Mencuci Baju
+21/05/2022 18:10:40,Anak,15-20,Alam,Teknologi,Binatang,Masak,Swakarya/DIY,Membersihkan Rumah
+21/05/2022 18:11:23,Ayah,>55,Alam,Teknologi,Hiburan,Sosialisasi,Manajemen,Mencuci Piring
+21/05/2022 18:11:51,Ibu,21-55,Hiburan,Edukasi,Kesehatan,Masak,Sosialisasi,Membayar Tagihan
+21/05/2022 18:12:15,Anak,15-20,Makanan,Hiburan,Animasi,Sosialisasi,Manajemen,Mencuci Baju
+21/05/2022 18:12:56,Ibu,21-55,Makanan,Edukasi,Literatur,Masak,Swakarya/DIY,Memasak
+21/05/2022 18:13:26,Ayah,21-55,Olahraga,Teknologi,Hiburan,Manajemen,Otomotif,Membayar Tagihan
+21/05/2022 18:13:54,Ibu,21-55,Makanan,Hiburan,Kesehatan,Masak,Sosialisasi,Membersihkan Rumah
+21/05/2022 18:14:16,Anak,15-20,Olahraga,Teknologi,Hiburan,Sosialisasi,Manajemen,Mencuci Piring
+21/05/2022 18:14:38,Anak,21-55,Teknologi,Hiburan,Edukasi,Sosialisasi,Manajemen,Membayar Tagihan
+21/05/2022 18:15:49,Ayah,>55,Olahraga,Teknologi,Hiburan,Manajemen,Otomotif,Membayar Tagihan
+21/05/2022 18:16:08,Ibu,21-55,Makanan,Hiburan,Edukasi,Masak,Swakarya/DIY,Mengasuh Anak
+21/05/2022 18:16:54,Anak,15-20,Makanan,Teknologi,Hiburan,Swakarya/DIY,Sosialisasi,Mencuci Piring
+21/05/2022 18:17:14,Anak,15<,Makanan,Hiburan,Animasi,Sosialisasi,,Mencuci Piring
+21/05/2022 18:23:22,Ayah,21-55,Makanan,Alam,Keuangan,Swakarya/DIY,Manajemen,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 18:23:48,Ibu,21-55,Makanan,Edukasi,Kesehatan,Masak,Swakarya/DIY,Membersihkan Rumah
+21/05/2022 18:24:14,Anak,15<,Makanan,Hiburan,Edukasi,Masak,Sosialisasi,Mencuci Piring
+21/05/2022 18:24:43,Anak,15<,Teknologi,Edukasi,Animasi,Swakarya/DIY,Berkebun,Belanja Kebutuhan
+21/05/2022 18:26:47,Ibu,>55,Makanan,Hiburan,Kesehatan,Masak,Sosialisasi,Membayar Tagihan
+21/05/2022 18:27:51,Ayah,21-55,Olahraga,Teknologi,Hiburan,Otomotif,,Membayar Tagihan
+21/05/2022 18:28:22,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,,Memasak
+21/05/2022 18:29:35,Anak,15-20,Makanan,Olahraga,Hiburan,Berkebun,,Membersihkan Rumah
+21/05/2022 18:29:57,Anak,15-20,Makanan,Hiburan,Animasi,Sosialisasi,,Mengasuh Anak
+21/05/2022 18:34:50,Ayah,21-55,Makanan,Olahraga,Edukasi,Kelistrikan,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 18:35:40,Ibu,21-55,Makanan,Hiburan,Edukasi,Masak,Swakarya/DIY,Mengasuh Anak
+21/05/2022 18:39:03,Anak,15-20,Hiburan,Edukasi,Binatang,Masak,Sosialisasi,Membersihkan Rumah
+21/05/2022 18:54:41,Ayah,21-55,Olahraga,Edukasi,Keuangan,Manajemen,Otomotif,Membayar Tagihan
+21/05/2022 18:57:11,Anak,15-20,Teknologi,Hiburan,Edukasi,Swakarya/DIY,Otomotif,Mencuci Piring
+21/05/2022 19:04:09,Anak,21-55,Makanan,Hiburan,Keuangan,Masak,Berkebun,Membayar Tagihan
+21/05/2022 19:10:00,Anak,21-55,Olahraga,Teknologi,Hiburan,Manajemen,,Belanja Kebutuhan
+21/05/2022 20:44:05,Anak,15-20,Teknologi,Hiburan,Keuangan,Swakarya/DIY,Kelistrikan,Belanja Kebutuhan
+21/05/2022 20:44:48,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,Sosialisasi,Memasak
+21/05/2022 20:45:18,Ayah,21-55,Alam,Teknologi,Keuangan,Otomotif,Kelistrikan,Membersihkan Rumah
+21/05/2022 21:14:34,Anak,15-20,Olahraga,Alam,Kesehatan,Swakarya/DIY,Berkebun,Membayar Tagihan
+21/05/2022 21:27:25,Ayah,>55,Edukasi,Literatur,Kesehatan,Sosialisasi,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+21/05/2022 21:52:44,Ibu,21-55,Makanan,Olahraga,Teknologi,Sosialisasi,,Memasak
+22/05/2022 7:18:34,Anak,21-55,Edukasi,Keuangan,Kesehatan,Sosialisasi,Manajemen,Membersihkan Rumah
+22/05/2022 7:20:06,Ayah,>55,Olahraga,Alam,Teknologi,Berkebun,,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 7:20:45,Ibu,>55,Makanan,Alam,Binatang,Masak,Berkebun,Memasak
+22/05/2022 7:56:32,Anak,21-55,Olahraga,Edukasi,Keuangan,Swakarya/DIY,Sosialisasi,Membersihkan Rumah
+22/05/2022 8:06:25,Ayah,21-55,Olahraga,Alam,Teknologi,Swakarya/DIY,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 8:07:07,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,Swakarya/DIY,Memasak
+22/05/2022 8:50:32,Ayah,>55,Makanan,Keuangan,Kesehatan,Masak,Swakarya/DIY,Membayar Tagihan
+22/05/2022 8:52:16,Ibu,21-55,Makanan,Keuangan,Kesehatan,Swakarya/DIY,Berkebun,Memasak
+22/05/2022 8:53:15,Anak,15<,Makanan,Edukasi,Literatur,Swakarya/DIY,Sosialisasi,Membersihkan Rumah
+22/05/2022 9:00:46,Anak,15-20,Teknologi,Hiburan,Edukasi,Manajemen,,Membersihkan Rumah
+22/05/2022 9:01:50,Anak,15-20,Makanan,Olahraga,Kesehatan,Sosialisasi,Otomotif,Membersihkan Rumah
+22/05/2022 9:02:47,Anak,15<,Makanan,Alam,Hiburan,Swakarya/DIY,,Membersihkan Rumah
+22/05/2022 9:03:45,Ibu,21-55,Alam,Edukasi,Literatur,Masak,Berkebun,Mengasuh Anak
+22/05/2022 9:04:32,Ayah,21-55,Hiburan,Edukasi,Keuangan,Sosialisasi,Manajemen,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 10:08:03,Ibu,>55,Makanan,Keuangan,Kesehatan,Swakarya/DIY,Manajemen,Mengasuh Anak
+22/05/2022 10:08:33,Anak,15-20,Makanan,Hiburan,Animasi,Masak,Swakarya/DIY,Mencuci Baju
+22/05/2022 10:08:48,Ayah,>55,Makanan,Keuangan,Kesehatan,Swakarya/DIY,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 10:10:03,Ibu,>55,Makanan,Hiburan,Kesehatan,Masak,Manajemen,Memasak
+22/05/2022 13:47:15,Ayah,21-55,Makanan,Teknologi,Literatur,Otomotif,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 13:48:07,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,Manajemen,Memasak
+22/05/2022 13:50:21,Anak,15<,Makanan,Hiburan,Animasi,Swakarya/DIY,,Mencuci Piring
+22/05/2022 13:51:26,Anak,21-55,Makanan,Teknologi,Hiburan,Swakarya/DIY,Manajemen,Membersihkan Rumah
+22/05/2022 14:51:53,Ayah,21-55,Makanan,Olahraga,Teknologi,Masak,Manajemen,Membersihkan Rumah
+22/05/2022 14:52:11,Anak,21-55,Teknologi,Hiburan,Literatur,Swakarya/DIY,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 14:55:27,Anak,21-55,Makanan,Olahraga,Keuangan,Berkebun,,Membersihkan Rumah
+22/05/2022 14:55:49,Ibu,>55,Hiburan,Binatang,Kesehatan,Masak,,Memasak
+22/05/2022 14:58:21,Ayah,>55,Olahraga,Hiburan,Kesehatan,Manajemen,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 14:59:23,Ibu,>55,Makanan,Keuangan,Kesehatan,Masak,Berkebun,Memasak
+22/05/2022 15:00:22,Anak,21-55,Makanan,Hiburan,Kesehatan,Masak,Manajemen,Membersihkan Rumah
+22/05/2022 15:03:31,Ibu,21-55,Makanan,Binatang,Kesehatan,Masak,Swakarya/DIY,Mencuci Baju
+22/05/2022 15:07:39,Anak,15-20,Makanan,Olahraga,Teknologi,Masak,Kelistrikan,Memasak
+22/05/2022 15:17:59,Anak,21-55,Makanan,Olahraga,Edukasi,Masak,Sosialisasi,Memasak
+22/05/2022 15:18:08,Ibu,21-55,Alam,Edukasi,Kesehatan,Masak,Berkebun,Memasak
+22/05/2022 15:23:33,Ayah,21-55,Alam,Edukasi,Kesehatan,Berkebun,,Membayar Tagihan
+22/05/2022 15:28:13,Ibu,21-55,Hiburan,Binatang,Keuangan,Masak,Sosialisasi,Membersihkan Rumah
+22/05/2022 15:33:22,Anak,15-20,Makanan,Hiburan,Keuangan,Swakarya/DIY,Sosialisasi,Memasak
+22/05/2022 15:33:56,Anak,15-20,Hiburan,Binatang,Kesehatan,Masak,Swakarya/DIY,Membersihkan Rumah
+22/05/2022 15:35:55,Anak,15-20,Makanan,Hiburan,Kesehatan,Masak,Manajemen,Belanja Kebutuhan
+22/05/2022 15:37:18,Ayah,21-55,Olahraga,Hiburan,Edukasi,Swakarya/DIY,Berkebun,Belanja Kebutuhan
+22/05/2022 15:39:45,Anak,15<,Makanan,Hiburan,Binatang,Swakarya/DIY,Sosialisasi,Belanja Kebutuhan
+22/05/2022 15:49:56,Anak,15-20,Makanan,Olahraga,Hiburan,Sosialisasi,Manajemen,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 15:53:29,Ayah,21-55,Hiburan,Keuangan,Kesehatan,Masak,Swakarya/DIY,Memasak
+22/05/2022 16:00:21,Ayah,21-55,Makanan,Olahraga,Alam,Masak,,Membersihkan Rumah
+22/05/2022 16:07:17,Ibu,21-55,Makanan,Teknologi,Kesehatan,Masak,Swakarya/DIY,Membersihkan Rumah
+22/05/2022 16:18:36,Ayah,21-55,Olahraga,Hiburan,Kesehatan,Sosialisasi,Manajemen,Membersihkan Rumah
+22/05/2022 16:18:41,Ibu,21-55,Makanan,Hiburan,Keuangan,Sosialisasi,Otomotif,Membersihkan Rumah
+22/05/2022 16:19:25,Ayah,21-55,Teknologi,Hiburan,Keuangan,Sosialisasi,Manajemen,Membayar Tagihan
+22/05/2022 16:20:11,Anak,15-20,Teknologi,Hiburan,Animasi,Sosialisasi,Manajemen,Mencuci Piring
+22/05/2022 16:21:02,Anak,21-55,Teknologi,Edukasi,Keuangan,Masak,Swakarya/DIY,Membayar Tagihan
+22/05/2022 16:21:02,Ibu,21-55,Keuangan,Literatur,Kesehatan,Manajemen,Berkebun,Membersihkan Rumah
+22/05/2022 16:21:23,Ibu,21-55,Makanan,Olahraga,Alam,Masak,Manajemen,Mencuci Baju
+22/05/2022 16:21:41,Ayah,21-55,Olahraga,Animasi,Binatang,Otomotif,Kelistrikan,Mencuci Piring
+22/05/2022 16:21:59,Ayah,21-55,Alam,Keuangan,Literatur,Sosialisasi,Otomotif,Membayar Tagihan
+22/05/2022 16:25:34,Ibu,21-55,Olahraga,Keuangan,Kesehatan,Masak,Manajemen,Membersihkan Rumah
+22/05/2022 16:26:55,Anak,21-55,Teknologi,Edukasi,Keuangan,Masak,Swakarya/DIY,Mencuci Baju
+22/05/2022 16:29:12,Ibu,21-55,Makanan,Olahraga,Keuangan,Masak,Berkebun,Membersihkan Rumah
+22/05/2022 16:43:38,Anak,15-20,Makanan,Hiburan,Binatang,Masak,Swakarya/DIY,Mencuci Piring
+22/05/2022 16:45:25,Ibu,21-55,Hiburan,Edukasi,Kesehatan,Masak,Manajemen,Membersihkan Rumah
+22/05/2022 17:01:58,Anak,15-20,Makanan,Olahraga,Teknologi,Swakarya/DIY,Manajemen,Mencuci Piring
+22/05/2022 17:04:29,Anak,21-55,Binatang,Literatur,Kesehatan,Masak,Sosialisasi,Memasak
+22/05/2022 17:05:28,Ayah,21-55,Teknologi,Keuangan,Kesehatan,Manajemen,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 17:06:28,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,Berkebun,Memasak
+22/05/2022 17:11:53,Anak,21-55,Alam,Hiburan,Animasi,Masak,Swakarya/DIY,Belanja Kebutuhan
+22/05/2022 17:13:06,Ayah,21-55,Olahraga,Hiburan,Keuangan,Sosialisasi,Kelistrikan,Belanja Kebutuhan
+22/05/2022 17:13:06,Ibu,21-55,Alam,Hiburan,Keuangan,Swakarya/DIY,Manajemen,Memasak
+22/05/2022 17:14:09,Ayah,21-55,Makanan,Alam,Hiburan,Sosialisasi,Otomotif,Membayar Tagihan
+22/05/2022 17:15:17,Ayah,21-55,Olahraga,Alam,Kesehatan,Otomotif,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 17:17:44,Ayah,21-55,Olahraga,Keuangan,Kesehatan,Berkebun,,Mencuci Baju
+22/05/2022 17:19:35,Ibu,21-55,Makanan,Hiburan,Kesehatan,Swakarya/DIY,Sosialisasi,Mencuci Baju
+22/05/2022 17:30:31,Ayah,21-55,Olahraga,Teknologi,Hiburan,Masak,,Mencuci Piring
+22/05/2022 17:39:02,Ibu,21-55,Makanan,Alam,Edukasi,Masak,,Mencuci Baju
+22/05/2022 17:48:48,Anak,15-20,Olahraga,Alam,Hiburan,Masak,Swakarya/DIY,Mencuci Piring
+22/05/2022 17:59:14,Ayah,21-55,Edukasi,Keuangan,Kesehatan,Sosialisasi,Manajemen,Membersihkan Rumah
+22/05/2022 18:01:24,Ayah,21-55,Makanan,Alam,Kesehatan,Masak,Manajemen,Membersihkan Rumah
+22/05/2022 18:01:39,Anak,15-20,Olahraga,Alam,Teknologi,Manajemen,Otomotif,Mencuci Piring
+22/05/2022 18:16:10,Ayah,21-55,Makanan,Hiburan,Keuangan,Manajemen,,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 18:16:48,Anak,15-20,Makanan,Hiburan,Binatang,Masak,Swakarya/DIY,Mencuci Baju
+22/05/2022 18:36:01,Ibu,21-55,Makanan,Edukasi,Keuangan,Masak,Swakarya/DIY,Memasak
+22/05/2022 18:39:15,Ayah,21-55,Olahraga,Teknologi,Kesehatan,Otomotif,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 18:40:35,Anak,15-20,Olahraga,Teknologi,Hiburan,Manajemen,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 18:41:40,Ibu,21-55,Makanan,Edukasi,Keuangan,Masak,Manajemen,Belanja Kebutuhan
+22/05/2022 18:42:28,Ibu,21-55,Makanan,Alam,Hiburan,Masak,Sosialisasi,Membersihkan Rumah
+22/05/2022 18:43:48,Ibu,21-55,Alam,Hiburan,Literatur,Sosialisasi,,Mencuci Baju
+22/05/2022 18:47:44,Ibu,21-55,Makanan,Olahraga,Hiburan,Masak,Berkebun,Membersihkan Rumah
+22/05/2022 18:49:05,Ibu,21-55,Makanan,Olahraga,Hiburan,Masak,Manajemen,Mencuci Piring
+22/05/2022 18:49:35,Ibu,21-55,Makanan,Keuangan,Kesehatan,Masak,Sosialisasi,Mengasuh Anak
+22/05/2022 18:55:32,Ibu,21-55,Alam,Hiburan,Edukasi,Manajemen,,Memasak
+22/05/2022 18:56:17,Ibu,21-55,Olahraga,Alam,Kesehatan,Swakarya/DIY,Berkebun,Memasak
+22/05/2022 19:00:57,Ibu,21-55,Makanan,Edukasi,Kesehatan,Masak,Berkebun,Memasak
+22/05/2022 19:10:43,Ibu,21-55,Makanan,Olahraga,Hiburan,Masak,Berkebun,Memasak
+22/05/2022 19:11:36,Ibu,21-55,Olahraga,Alam,Kesehatan,Masak,,Memasak
+22/05/2022 19:13:40,Ibu,>55,Makanan,Olahraga,Binatang,Masak,Berkebun,Memasak
+22/05/2022 19:14:19,Ayah,21-55,Olahraga,Alam,Hiburan,Masak,,Membersihkan Rumah
+22/05/2022 19:18:24,Ibu,21-55,Makanan,Alam,Hiburan,Masak,Berkebun,Memasak
+22/05/2022 19:27:13,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,,Memasak
+22/05/2022 19:28:37,Ayah,21-55,Makanan,Olahraga,Edukasi,Berkebun,,Mencuci Baju
+22/05/2022 19:28:43,Ayah,21-55,Edukasi,Binatang,Kesehatan,Otomotif,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 19:30:49,Anak,15-20,Makanan,Hiburan,Keuangan,Masak,Swakarya/DIY,Membersihkan Rumah
+22/05/2022 19:32:05,Anak,15-20,Makanan,Olahraga,Hiburan,Otomotif,,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 19:34:00,Anak,15<,Makanan,Olahraga,Teknologi,Masak,,Memasak
+22/05/2022 19:39:56,Ibu,21-55,Alam,Hiburan,Kesehatan,Masak,,Memasak
+22/05/2022 19:42:36,Ayah,21-55,Olahraga,Alam,Edukasi,Sosialisasi,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 19:44:46,Ayah,21-55,Makanan,Olahraga,Edukasi,Sosialisasi,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 19:44:47,Ayah,21-55,Olahraga,Edukasi,Binatang,Sosialisasi,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 19:45:50,Ibu,21-55,Alam,Hiburan,Keuangan,Masak,Sosialisasi,Memasak
+22/05/2022 19:46:52,Ayah,21-55,Hiburan,Edukasi,Keuangan,Sosialisasi,Manajemen,Membersihkan Rumah
+22/05/2022 19:47:13,Ibu,21-55,Alam,Edukasi,Binatang,Masak,Berkebun,Mengasuh Anak
+22/05/2022 19:47:35,Anak,15-20,Alam,Hiburan,Keuangan,Masak,Manajemen,Belanja Kebutuhan
+22/05/2022 19:47:49,Anak,15-20,Makanan,Hiburan,Binatang,Swakarya/DIY,,Mencuci Piring
+22/05/2022 19:48:18,Anak,21-55,Alam,Hiburan,Binatang,Sosialisasi,Manajemen,Belanja Kebutuhan
+22/05/2022 19:49:46,Anak,21-55,Makanan,Teknologi,Keuangan,Masak,Manajemen,Belanja Kebutuhan
+22/05/2022 19:50:40,Anak,15<,Hiburan,Animasi,Binatang,Masak,Swakarya/DIY,Membersihkan Rumah
+22/05/2022 19:53:31,Ayah,>55,Olahraga,Edukasi,Keuangan,Swakarya/DIY,Manajemen,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 19:54:28,Ibu,>55,Makanan,Keuangan,Kesehatan,Masak,Berkebun,Belanja Kebutuhan
+22/05/2022 19:55:07,Anak,15-20,Olahraga,Alam,Edukasi,Masak,Sosialisasi,Memasak
+22/05/2022 19:58:19,Ibu,21-55,Edukasi,Keuangan,Kesehatan,Masak,Berkebun,Memasak
+22/05/2022 19:59:36,Anak,21-55,Teknologi,Edukasi,Keuangan,Sosialisasi,Manajemen,Membersihkan Rumah
+22/05/2022 20:07:59,Ayah,21-55,Alam,Teknologi,Hiburan,Kelistrikan,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 20:08:38,Ibu,21-55,Makanan,Keuangan,Kesehatan,Masak,Sosialisasi,Membersihkan Rumah
+22/05/2022 20:09:02,Ayah,>55,Hiburan,Keuangan,Kesehatan,Manajemen,Berkebun,Membayar Tagihan
+22/05/2022 20:09:16,Ayah,21-55,Olahraga,Teknologi,Keuangan,Kelistrikan,,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 20:10:01,Anak,15<,Makanan,Olahraga,Kesehatan,Sosialisasi,,Mencuci Piring
+22/05/2022 20:10:03,Ibu,21-55,Olahraga,Hiburan,Kesehatan,Masak,Berkebun,Memasak
+22/05/2022 20:10:16,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,Manajemen,Memasak
+22/05/2022 20:11:23,Anak,15-20,Teknologi,Edukasi,Animasi,Otomotif,Berkebun,Mencuci Baju
+22/05/2022 20:15:45,Anak,21-55,Makanan,Olahraga,Hiburan,Otomotif,Berkebun,Mencuci Piring
+22/05/2022 20:20:43,Ayah,>55,Edukasi,Keuangan,Kesehatan,Kelistrikan,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 20:22:10,Ayah,>55,Olahraga,Hiburan,Kesehatan,Masak,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 20:25:11,Ibu,>55,Hiburan,Keuangan,Kesehatan,Masak,Berkebun,Memasak
+22/05/2022 20:26:35,Anak,21-55,Makanan,Hiburan,Keuangan,Sosialisasi,Manajemen,Mencuci Piring
+22/05/2022 20:32:31,Ayah,>55,Hiburan,Edukasi,Kesehatan,Manajemen,Berkebun,Membersihkan Rumah
+22/05/2022 20:38:57,Ayah,21-55,Olahraga,Alam,Teknologi,Manajemen,Berkebun,Mengasuh Anak
+22/05/2022 20:39:20,Ibu,21-55,Makanan,Edukasi,Keuangan,Masak,Berkebun,Membersihkan Rumah
+22/05/2022 20:40:43,Ayah,21-55,Olahraga,Hiburan,Keuangan,Kelistrikan,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 20:42:14,Anak,15-20,Makanan,Edukasi,Animasi,Masak,Berkebun,Membersihkan Rumah
+22/05/2022 20:52:53,Ayah,21-55,Olahraga,Alam,Kesehatan,Sosialisasi,Otomotif,Membayar Tagihan
+22/05/2022 20:53:01,Ayah,21-55,Olahraga,Hiburan,Kesehatan,Berkebun,,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 20:54:41,Ayah,21-55,Olahraga,Hiburan,Kesehatan,Berkebun,,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 20:56:26,Ibu,21-55,Makanan,Keuangan,Kesehatan,Berkebun,,Belanja Kebutuhan
+22/05/2022 20:56:33,Anak,15-20,Makanan,Keuangan,Kesehatan,Masak,Swakarya/DIY,Mencuci Piring
+22/05/2022 20:57:27,Anak,21-55,Hiburan,Keuangan,Kesehatan,Masak,Manajemen,Belanja Kebutuhan
+22/05/2022 21:00:12,Ayah,>55,Hiburan,Keuangan,Kesehatan,Masak,Berkebun,Memasak
+22/05/2022 21:11:27,Ayah,21-55,Makanan,Hiburan,Binatang,Manajemen,Otomotif,Membersihkan Rumah
+22/05/2022 21:35:03,Ayah,21-55,Olahraga,Hiburan,Keuangan,Manajemen,,Membersihkan Rumah
+22/05/2022 21:50:14,Anak,15-20,Makanan,Olahraga,Keuangan,Masak,,Memasak
+22/05/2022 22:16:49,Anak,15-20,Makanan,Hiburan,Binatang,Masak,Sosialisasi,Mencuci Piring
+22/05/2022 22:17:22,Ayah,>55,Alam,Teknologi,Edukasi,Otomotif,Berkebun,Membayar Tagihan
+22/05/2022 22:18:09,Ibu,>55,Makanan,Keuangan,Kesehatan,Masak,Manajemen,Mengasuh Anak
+22/05/2022 22:18:59,Anak,21-55,Makanan,Alam,Hiburan,Masak,Sosialisasi,Membersihkan Rumah
+22/05/2022 22:21:24,Anak,21-55,Olahraga,Alam,Hiburan,Berkebun,,Mencuci Baju
+22/05/2022 22:22:34,Ayah,21-55,Alam,Binatang,Keuangan,Masak,Kelistrikan,Membayar Tagihan
+22/05/2022 22:23:14,Anak,21-55,Olahraga,Alam,Hiburan,Berkebun,,Mencuci Piring
+22/05/2022 22:24:22,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,Swakarya/DIY,Membersihkan Rumah
+22/05/2022 22:24:31,Anak,21-55,Teknologi,Edukasi,Literatur,Sosialisasi,Manajemen,Mencuci Piring
+22/05/2022 22:25:34,Anak,15<,Olahraga,Hiburan,Animasi,Masak,Berkebun,Membersihkan Rumah
+22/05/2022 22:33:11,Ayah,>55,Olahraga,Alam,Hiburan,Otomotif,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 22:34:53,Ibu,>55,Alam,Keuangan,Kesehatan,Masak,Berkebun,Memasak
+22/05/2022 22:35:31,Anak,15-20,Hiburan,Edukasi,Literatur,Masak,Manajemen,Memasak
+22/05/2022 22:35:57,Ibu,21-55,Makanan,Alam,Literatur,Masak,Berkebun,Memasak
+22/05/2022 22:36:33,Ayah,>55,Makanan,Teknologi,Keuangan,Otomotif,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+22/05/2022 22:37:18,Anak,21-55,Olahraga,Teknologi,Hiburan,Manajemen,Berkebun,Membersihkan Rumah
+22/05/2022 22:38:23,Anak,15<,Hiburan,Animasi,Binatang,Masak,Berkebun,Membersihkan Rumah
+22/05/2022 22:38:53,Ibu,21-55,Makanan,Keuangan,Literatur,Swakarya/DIY,Sosialisasi,Mencuci Baju
+22/05/2022 22:39:55,Ayah,21-55,Teknologi,Hiburan,Edukasi,Swakarya/DIY,Sosialisasi,Membersihkan Rumah
+22/05/2022 23:18:42,Anak,21-55,Teknologi,Hiburan,Binatang,Masak,Swakarya/DIY,Memasak
+22/05/2022 23:20:26,Anak,21-55,Teknologi,Hiburan,Binatang,Masak,Swakarya/DIY,Memasak
+22/05/2022 23:22:32,Anak,21-55,Makanan,Hiburan,Edukasi,Swakarya/DIY,Sosialisasi,Belanja Kebutuhan
+22/05/2022 23:59:06,Ibu,21-55,Makanan,Edukasi,Kesehatan,Masak,Berkebun,Mengasuh Anak
+23/05/2022 0:01:05,Ayah,21-55,Makanan,Hiburan,Keuangan,Sosialisasi,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+23/05/2022 0:03:12,Anak,15<,Makanan,Teknologi,Hiburan,Masak,,Membersihkan Rumah
+23/05/2022 4:08:22,Ayah,21-55,Alam,Hiburan,Binatang,Berkebun,,Mencuci Baju
+23/05/2022 4:09:43,Ibu,21-55,Alam,Edukasi,Literatur,Masak,,Memasak
+23/05/2022 4:11:01,Anak,15<,Makanan,Edukasi,Animasi,Masak,Sosialisasi,Membersihkan Rumah
+23/05/2022 4:35:11,Ayah,21-55,Hiburan,Keuangan,Kesehatan,Masak,Sosialisasi,Membersihkan Rumah
+23/05/2022 6:04:56,Ibu,21-55,Makanan,Olahraga,Edukasi,Masak,Sosialisasi,Memasak
+23/05/2022 6:27:06,Anak,15-20,Olahraga,Alam,Kesehatan,Sosialisasi,Manajemen,Mencuci Piring
+23/05/2022 6:35:37,Ayah,21-55,Alam,Edukasi,Keuangan,Manajemen,Otomotif,Memperbaiki Rumah/Kelistrikan/Perabotan
+23/05/2022 6:36:38,Ibu,21-55,Alam,Edukasi,Keuangan,Masak,Manajemen,Memasak
+23/05/2022 6:38:02,Anak,15<,Hiburan,Edukasi,Kesehatan,Swakarya/DIY,Berkebun,Mencuci Piring
+23/05/2022 9:05:17,Anak,21-55,Alam,Hiburan,Edukasi,Masak,,Membersihkan Rumah
+23/05/2022 9:06:48,Ibu,21-55,Makanan,Alam,Teknologi,Otomotif,,Memperbaiki Rumah/Kelistrikan/Perabotan
+23/05/2022 9:08:01,Ibu,21-55,Makanan,Alam,Teknologi,Masak,,Memasak
+23/05/2022 9:57:12,Ibu,15<,Olahraga,Hiburan,Kesehatan,Sosialisasi,Manajemen,Memasak
+23/05/2022 10:19:29,Ibu,21-55,Makanan,Olahraga,Kesehatan,Masak,Sosialisasi,Memasak
+23/05/2022 10:29:55,Ibu,21-55,Makanan,Edukasi,Kesehatan,Masak,,Memasak
+23/05/2022 10:51:24,Ibu,21-55,Makanan,Alam,Hiburan,Berkebun,,Membersihkan Rumah
+23/05/2022 10:56:11,Ibu,21-55,Makanan,Alam,Hiburan,Masak,Berkebun,Memasak
+23/05/2022 11:03:33,Ibu,21-55,Makanan,Alam,Kesehatan,Masak,Manajemen,Memasak
+23/05/2022 11:53:01,Ibu,21-55,Makanan,Olahraga,Kesehatan,Masak,Sosialisasi,Belanja Kebutuhan
+23/05/2022 18:40:45,Anak,21-55,Makanan,Hiburan,Keuangan,Masak,Manajemen,Mencuci Piring
+23/05/2022 18:41:28,Ayah,>55,Makanan,Alam,Animasi,Kelistrikan,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+23/05/2022 18:42:12,Ibu,21-55,Makanan,Keuangan,Kesehatan,Masak,Berkebun,Membersihkan Rumah
+23/05/2022 18:42:48,Anak,15-20,Makanan,Hiburan,Edukasi,Masak,Sosialisasi,Memasak
+24/05/2022 13:02:55,Ibu,>55,Alam,Hiburan,Edukasi,Masak,Sosialisasi,Memasak
+24/05/2022 13:06:01,Ibu,21-55,Makanan,Hiburan,Kesehatan,Masak,,Memasak
+24/05/2022 21:26:11,Anak,15-20,Makanan,Teknologi,Hiburan,Masak,Sosialisasi,Mencuci Piring
+24/05/2022 21:27:03,Ayah,21-55,Olahraga,Alam,Edukasi,Kelistrikan,Berkebun,Memperbaiki Rumah/Kelistrikan/Perabotan
+24/05/2022 21:27:23,Ibu,21-55,Makanan,Edukasi,Keuangan,Masak,Manajemen,Belanja Kebutuhan
+25/05/2022 7:28:16,Ayah,21-55,Olahraga,Alam,Teknologi,Sosialisasi,,Memperbaiki Rumah/Kelistrikan/Perabotan
+25/05/2022 7:29:58,Ibu,21-55,Olahraga,Alam,Kesehatan,Masak,Manajemen,Memasak
+25/05/2022 7:31:20,Anak,15<,Olahraga,Alam,Binatang,Berkebun,,Mencuci Piring
+25/05/2022 19:23:51,Anak,21-55,Makanan,Hiburan,Edukasi,Sosialisasi,,Membersihkan Rumah
+25/05/2022 19:28:45,Ibu,21-55,Makanan,Hiburan,Keuangan,Masak,Berkebun,Memasak
+25/05/2022 19:29:51,Ayah,21-55,Teknologi,Hiburan,Edukasi,Otomotif,Kelistrikan,Memperbaiki Rumah/Kelistrikan/Perabotan
+26/05/2022 17:43:45,Anak,15<,Makanan,Teknologi,Hiburan,Masak,Manajemen,Memasak
